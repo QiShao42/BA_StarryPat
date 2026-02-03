@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢你考虑为 BAStarryPat 做出贡献！
+感谢你考虑为 BA_StarryPat 做出贡献！
 
 ## 行为准则
 
@@ -44,13 +44,13 @@
 1. Fork 本仓库
 2. 克隆你的Fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/BAStarryPat.git
-cd BAStarryPat
+git clone https://github.com/YOUR_USERNAME/BA_StarryPat.git
+cd BA_StarryPat
 ```
 
 3. 设置上游仓库
 ```bash
-git remote add upstream https://github.com/QiShao42/BAStarryPat.git
+git remote add upstream https://github.com/QiShao42/BA_StarryPat.git
 ```
 
 4. 创建特性分支
@@ -143,7 +143,7 @@ git push origin feature/your-feature-name
 ## 项目结构
 
 ```
-BAStarryPat/
+BA_StarryPat/
 ├── main.cpp                    # 程序入口
 ├── arona.cpp/h                 # 主窗口（核心逻辑）
 ├── timerdialog.cpp/h           # 定时器功能

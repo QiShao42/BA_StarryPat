@@ -1,4 +1,4 @@
-# 星空摸头机 (BAStarryPat)
+# 星空摸头机 (BA_StarryPat)
 
 <div align="center">
 
@@ -15,13 +15,7 @@
 
 ---
 
-## ⚠️ 重要提示
-
 **本软件仅供学习和研究使用，请勿用于任何商业用途。**
-
-- ⚠️ 使用本软件可能违反游戏服务条款
-- ⚠️ 可能导致账号被封禁或其他处罚
-- ⚠️ 使用前请充分了解风险并自行决定
 
 ## 功能特性
 
@@ -36,7 +30,7 @@
 
 ### 方式一：直接下载（推荐新手）
 
-1. 前往 [Releases](https://github.com/QiShao42/BAStarryPat/releases) 页面
+1. 前往 [Releases](https://github.com/QiShao42/BA_StarryPat/releases) 页面
 2. 下载最新版本的 `ARONA.exe`
 3. 双击运行程序
 
@@ -92,8 +86,8 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/QiShao42/BAStarryPat.git
-cd BAStarryPat
+git clone https://github.com/QiShao42/BA_StarryPat.git
+cd BA_StarryPat
 ```
 
 2. **配置Qt环境**
@@ -132,7 +126,7 @@ python update_resources.py
 ## 项目结构
 
 ```
-BAStarryPat/
+BA_StarryPat/
 ├── main.cpp                    # 程序入口
 ├── arona.cpp/h                 # 主窗口实现
 ├── timerdialog.cpp/h           # 定时器对话框
@@ -212,8 +206,6 @@ Copyright © 2026 星空的诺言
 - ⚠️ **任何基于本代码的衍生作品必须同样采用 GPL v3 许可证开源**
 - ⚠️ **禁止将本代码用于闭源商业产品**
 
-这意味着如果有人使用了你的代码，他们必须公开他们的源代码，不能将其闭源销售。
-
 ### 第三方组件
 
 - **Qt Framework** - LGPL v3 - © The Qt Company
@@ -224,8 +216,8 @@ Copyright © 2026 星空的诺言
 
 ## 联系方式
 
-- **GitHub Issues**: [提交问题](https://github.com/QiShao42/BAStarryPat/issues)
-- **GitHub Discussions**: [参与讨论](https://github.com/QiShao42/BAStarryPat/discussions)
+- **GitHub Issues**: [提交问题](https://github.com/QiShao42/BA_StarryPat/issues)
+- **GitHub Discussions**: [参与讨论](https://github.com/QiShao42/BA_StarryPat/discussions)
 
 ---
 

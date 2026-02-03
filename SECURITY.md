@@ -14,7 +14,7 @@
 
 请通过以下方式私密报告：
 
-1. 在GitHub仓库中使用 [Security Advisories](https://github.com/QiShao42/BAStarryPat/security/advisories/new) 功能
+1. 在GitHub仓库中使用 [Security Advisories](https://github.com/QiShao42/BA_StarryPat/security/advisories/new) 功能
 2. 或者在Issue中标记为 `security` 并请求私密处理
 
 请在报告中包含：

@@ -89,12 +89,12 @@ void AboutDialog::setupUi()
                                      "}");
     copyrightTextEdit->setHtml(
         "<p style='margin:5px 0;'><b>Copyright © 2026 星空的诺言</b></p>"
-        // "<p style='margin:5px 0;'>本软件基于 <b>GNU General Public License v3.0</b> (GPL-3.0) 开源许可证发布。</p>"
+        "<p style='margin:5px 0;'>本软件基于 <b>GNU General Public License v3.0</b> (GPL-3.0) 开源许可证发布。</p>"
         // "<p style='margin:5px 0;'><b style='color:#4CAF50;'>✓</b> 允许自由使用、复制、修改和分发</p>"
         // "<p style='margin:5px 0;'><b style='color:#4CAF50;'>✓</b> 允许用于商业目的（但必须开源）</p>"
         // "<p style='margin:5px 0;'><b style='color:#FF9800;'>⚠</b> 任何衍生作品必须采用相同的GPL v3许可证</p>"
         // "<p style='margin:5px 0;'><b style='color:#FF9800;'>⚠</b> 禁止将本代码用于闭源商业产品</p>"
-        // "<p style='margin:5px 0;'>详见：<a href='https://github.com/QiShao42/BAStarryPat' style='color:#2196F3;'>GitHub仓库</a> | <a href='https://www.gnu.org/licenses/gpl-3.0.html' style='color:#2196F3;'>GPL v3全文</a></p>"
+        "<p style='margin:5px 0;'>详见：<a href='https://github.com/QiShao42/BA_StarryPat' style='color:#2196F3;'>GitHub仓库</a> | <a href='https://www.gnu.org/licenses/gpl-3.0.html' style='color:#2196F3;'>GPL v3全文</a></p>"
         "<p style='margin:8px 0 5px 0;'><b>第三方组件：</b></p>"
         "<p style='margin:3px 0 3px 15px;'>• Qt Framework (LGPL v3) - © The Qt Company</p>"
         "<p style='margin:3px 0 3px 15px;'>• 游戏素材、截图、商标归《蔚蓝档案》及其开发商 NEXON 所有</p>"

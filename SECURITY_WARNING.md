@@ -65,8 +65,8 @@ Windows使用 **SmartScreen** 筛选器保护用户免受未知软件的潜在�
 
 ```bash
 # 1. 克隆源代码
-git clone https://github.com/QiShao42/BAStarryPat.git
-cd BAStarryPat
+git clone https://github.com/QiShao42/BA_StarryPat.git
+cd BA_StarryPat
 
 # 2. 配置并编译
 mkdir build
@@ -91,7 +91,7 @@ cmake --build . --config Release
 - 审查任何可疑的代码
 - 确认没有恶意行为
 
-🔗 [查看源代码](https://github.com/QiShao42/BAStarryPat)
+🔗 [查看源代码](https://github.com/QiShao42/BA_StarryPat)
 
 ### 2. 使用VirusTotal扫描
 
@@ -240,9 +240,9 @@ Microsoft Defender SmartScreen 已阻止来自未知发布者的应用启动
 ## 需要帮助？
 
 如果你遇到其他问题：
-- 📝 [提交Issue](https://github.com/QiShao42/BAStarryPat/issues)
-- 💬 [参与讨论](https://github.com/QiShao42/BAStarryPat/discussions)
-- 📖 [查看文档](https://github.com/QiShao42/BAStarryPat)
+- 📝 [提交Issue](https://github.com/QiShao42/BA_StarryPat/issues)
+- 💬 [参与讨论](https://github.com/QiShao42/BA_StarryPat/discussions)
+- 📖 [查看文档](https://github.com/QiShao42/BA_StarryPat)
 
 ---
 
