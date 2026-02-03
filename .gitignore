@@ -1,0 +1,109 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+*.autosave
+*.user
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.jsc
+*_plugin_import.cpp
+
+# C++ compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.backup_*
+*.bak
+*.tmp
+
+# Log files
+*.log
+
+# Config files (may contain sensitive data)
+arona_config.ini
+*.ini
+
+# Screenshots and runtime generated files
+screenshots/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Distribution / packaging
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Qt resource backup files
+*.qrc.backup*
+
+# Windows specific
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Package files
+*.zip
+*.7z
+*.tar.gz
+*.rar
+
+# Keep templates but ignore runtime copies
+!templates/

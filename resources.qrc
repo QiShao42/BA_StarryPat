@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/icon/app_icon.ico</file>
+        <file>images/icon/app_icon.png</file>
+        <file>images/icon/关于.svg</file>
+        <file>images/icon/日志.svg</file>
+        <file>images/position_ready/(1310,953)ticket.png</file>
+        <file>images/position_ready/(1310,953)ticket_JP.png</file>
+        <file>images/position_ready/(1595,215)HardTask.png</file>
+        <file>images/position_ready/(1595,215)HardTask_JP.png</file>
+        <file>images/position_ready/(1840,520)TaskEnd.png</file>
+        <file>images/position_ready/(1840,520)TaskEnd_JP.png</file>
+        <file>images/position_ready/(623,125)Invitation_interface.png</file>
+        <file>images/position_ready/(623,125)Invitation_interface_JP.png</file>
+        <file>images/position_ready/(921,223)ChangeClothes.png</file>
+        <file>images/position_ready/(921,223)ChangeClothes_JP.png</file>
+        <file>images/position_ready/(921,223)NextRoom.png</file>
+        <file>images/position_ready/(921,223)NextRoomAndOtherClothes.png</file>
+        <file>images/position_ready/(921,223)NextRoomAndOtherClothes_JP.png</file>
+        <file>images/position_ready/(921,223)NextRoom_JP.png</file>
+        <file>images/position_ready/(921,223)Notice.png</file>
+        <file>images/position_ready/(921,223)Notice_JP.png</file>
+        <file>images/position_templates/(118,960)Hall.png</file>
+        <file>images/position_templates/(118,960)Hall_JP.png</file>
+        <file>images/position_templates/(1185,476)SweepConfirm.png</file>
+        <file>images/position_templates/(1185,476)SweepConfirm_AC.png</file>
+        <file>images/position_templates/(1185,476)SweepConfirm_JP.png</file>
+        <file>images/position_templates/(1549,949)Cafe1.png</file>
+        <file>images/position_templates/(1549,949)Cafe1_JP.png</file>
+        <file>images/position_templates/(163,15)Opration.png</file>
+        <file>images/position_templates/(163,15)Opration_JP.png</file>
+        <file>images/position_templates/(163,15)Task.png</file>
+        <file>images/position_templates/(163,15)Task_JP.png</file>
+        <file>images/position_templates/(267,942)Cafe2.png</file>
+        <file>images/position_templates/(267,942)Cafe2_JP.png</file>
+        <file>images/position_templates/(716,604)TimesExhausted.png</file>
+        <file>images/position_templates/(77,993)EditMode.png</file>
+        <file>images/position_templates/(77,993)EditMode_JP.png</file>
+        <file>images/position_templates/(900,482)CloseGame.png</file>
+        <file>images/position_templates/(900,482)CloseGame_JP.png</file>
+    </qresource>
+</RCC>
+
