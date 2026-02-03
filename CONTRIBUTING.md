@@ -157,7 +157,7 @@ BA_StarryPat/
 
 ## 许可证
 
-通过贡献代码，你同意你的贡献将在 [MIT License](LICENSE) 下发布。
+通过贡献代码，你同意你的贡献将在 [GNU General Public License v3.0](LICENSE) 下发布。
 
 ## 问题？
 
